@@ -110,7 +110,7 @@
     "needle": "^2.5.0",
     "nps": "^5.10.0",
     "nyc": "^15.1.0",
-    "pidtree": "^0.5.0",
+    "pidtree": "^0.6.0",
     "prettier": "^2.8.8",
     "remark": "^14.0.2",
     "remark-github": "^11.2.2",
