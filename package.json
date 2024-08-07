@@ -75,7 +75,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
-    "@eslint/js": "^8.56.0",
+    "@eslint/js": "^8.57.0",
     "@mocha/docdash": "^4.0.1",
     "@rollup/plugin-commonjs": "^21.0.2",
     "@rollup/plugin-json": "^4.1.0",
