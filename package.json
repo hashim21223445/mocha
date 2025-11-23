@@ -106,7 +106,7 @@
     "markdown-it-emoji": "^2.0.0",
     "markdown-it-prism": "^3.0.0",
     "markdown-toc": "^1.2.0",
-    "markdownlint-cli": "^0.45.0",
+    "markdownlint-cli": "^0.46.0",
     "needle": "^2.5.0",
     "nps": "^5.10.0",
     "nyc": "^15.1.0",
